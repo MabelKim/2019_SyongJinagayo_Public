@@ -11,4 +11,4 @@ https://aurixracer.readthedocs.io/ko/latest/
 https://aurixtutorial.readthedocs.io/ko/latest/
 
 - Contributer :
-건국대학교 김은주 , 김승수 , 민경민, 유진호, 
+건국대학교 김은주 , 김승수 , 민경민, 유진호, 김서정
